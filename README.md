@@ -3,6 +3,8 @@
 Moteur de state machine pour processus longue duree (*long running process*) en C# / .NET 8,
 distribuable comme package NuGet dans une solution cliente.
 
+> Reference complete de l'API fluent de definition des processus : [docs/builders.md](docs/builders.md).
+
 ## Concepts
 
 Un **processus** est un graphe de **noeuds** relies par des **transitions**, defini une fois en
